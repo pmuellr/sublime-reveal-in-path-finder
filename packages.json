@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "Reveal in Path Finder",
+            "description": "Opens Path Finder pointing to the current file",
+            "author": "pmuellr",
+            "homepage": "https://github.com/pmuellr/sublime-reveal-in-path-finder",
+            "last_modified": "2012-10-06 14:44:10",
+            "platforms": {
+                "osx": [
+                    {
+                        "version": "0.1.0",
+                        "url": "https://nodeload.github.com/pmuellr/sublime-reveal-in-path-finder/zipball/0.1.0"
+                    }
+                ]
+            }
+        }
+    ]
+}
